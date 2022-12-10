@@ -1,13 +1,13 @@
-# yy
+# react-pdf-by-sohail
 
 > react-js pdf flip view 
 
-[![NPM](https://img.shields.io/npm/v/yy.svg)](https://www.npmjs.com/package/yy) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-pdf-by-sohail.svg)](https://www.npmjs.com/package/react-pdf-by-sohail) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save yy
+npm install --save react-pdf-by-sohail
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save yy
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'yy'
-import 'yy/dist/index.css'
+import MyComponent from 'react-pdf-by-sohail'
+import 'react-pdf-by-sohail/dist/index.css'
 
 class Example extends Component {
   render() {
