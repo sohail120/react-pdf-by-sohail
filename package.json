@@ -1,5 +1,5 @@
 {
-  "name": "yy",
+  "name": "react-pdf-by-sohail",
   "version": "1.0.0",
   "description": "react-js pdf flip view ",
   "author": "sohail sheikh",
@@ -49,5 +49,12 @@
   },
   "files": [
     "dist"
+  ],
+  "keywords": [
+    "react",
+    "rails",
+    "mvc",
+    "react-component",
+    "pagination"
   ]
 }
